@@ -38,7 +38,7 @@ import matplotlib.pyplot as plt
 ```
 img1=np.zeros((100,400),dtype='uint8')
 font=cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(img1,'Priyanka',(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(img1,'Niraunjana',(5,70),font,2,(255),5,cv2.LINE_AA)
 ```
 
 ### Create the structuring element
